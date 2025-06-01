@@ -1,3 +1,4 @@
+DB_lesson 練習問題
 Q1
 CREATE DATABASE departments;
 mysql> CREATE TABLE  departments (
